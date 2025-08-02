@@ -1,0 +1,8 @@
+serial
+cryptography
+matplotlib
+numpy 
+json 
+datetime
+asyncio
+websockets
