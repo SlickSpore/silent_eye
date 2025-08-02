@@ -8,7 +8,7 @@ import time
     Example node that scraps a temperature value for milan
 """
 
-url = f"https://www.meteoeradar.it/pagina-meteo/milano/12138419"
+url = f""
 
 class Sensor:       # Sensor Brain Object, implement your code to gather data
     def __init__(self):
