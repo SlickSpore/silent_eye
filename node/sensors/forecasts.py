@@ -10,7 +10,7 @@ import time
     Example node that scraps values for milan
 """
 
-url = f"http://www.meteosystem.com/wlip/milano/dati.php"
+url = f""
 
 class Sensor:       # Sensor Brain Object, implement your code to gather data
     def __init__(self):
